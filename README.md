@@ -4,5 +4,5 @@ This project explores how people should choose a checkout line in a supermarket.
 ---
 
 #### Media Overview
-If you prefer a quick, visual overview, I’ve also created a short, entertaining video using NotebookLM that walks through the project in a simple and engaging way. You can watch it here: [The Queue Dilemma Video](https://drive.google.com/file/d/1GO9_2ciAOlPRDTPAQUKWpH6mVApBsZgr/view?usp=drive_link) \
-The video in no way explores the project subject in depth or cover its complexity. It is for a brief introduction purpose only and does not claim any scientific value.
+I’ve created a short, entertaining video using NotebookLM that walks through the project in a simple and engaging way. After you had gotten familiar with the main project if you like quick popular science style visuals, you can watch it here: [The Queue Dilemma Video](https://drive.google.com/file/d/1GO9_2ciAOlPRDTPAQUKWpH6mVApBsZgr/view?usp=drive_link) \
+The video in no way explores the project subject in depth or cover its complexity. It does not claim any scientific value.
